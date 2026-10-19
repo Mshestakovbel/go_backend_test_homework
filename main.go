@@ -1,5 +1,7 @@
 package main
 
+       //Это первая редакция файла
+
 import (
 	"fmt"
 )
